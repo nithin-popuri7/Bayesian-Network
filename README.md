@@ -1,4 +1,4 @@
-<img width="470" alt="image" src="https://github.com/nithin-popuri7/Bayesian-Network/assets/94154780/c39ceaca-76d2-4534-b3af-af620f10b69d"># Implementation of Bayesian-Network
+# Implementation of Bayesian-Network
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
