@@ -1,4 +1,4 @@
-# Implementation of Bayesian-Network
+# Experiment-1--- Implementation of Bayesian-Network
 
 ## Aim :
 To create a bayesian Network for the given dataset in Python
